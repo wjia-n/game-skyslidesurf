@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'skyslidesurftaco',
   tip2Id: 'skyslidesurfcookie',
-  tip1Label: '💛 Buy me a taco',
-  tip2Label: '💛 Buy me a cookie',
+  tip1Label: '💛 Sky Slide Surf — buy me a taco',
+  tip2Label: '💛 Sky Slide Surf — buy me a cookie',
 );
